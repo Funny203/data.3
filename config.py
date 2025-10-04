@@ -1,2 +1,3 @@
-token ='8444507310:AAH5k4rROV55JKWb6zLokf80uysW81NMqUM'
-DATABASE ='DATABASE.db'
+token =''
+
+DATABASE ='name.bd'
